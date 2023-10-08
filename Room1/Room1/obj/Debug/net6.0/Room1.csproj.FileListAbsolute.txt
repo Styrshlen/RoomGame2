@@ -1,0 +1,14 @@
+C:\Users\Natalia\Desktop\Room1\Room1\bin\Debug\net6.0\Room1.exe
+C:\Users\Natalia\Desktop\Room1\Room1\bin\Debug\net6.0\Room1.deps.json
+C:\Users\Natalia\Desktop\Room1\Room1\bin\Debug\net6.0\Room1.runtimeconfig.json
+C:\Users\Natalia\Desktop\Room1\Room1\bin\Debug\net6.0\Room1.dll
+C:\Users\Natalia\Desktop\Room1\Room1\bin\Debug\net6.0\Room1.pdb
+C:\Users\Natalia\Desktop\Room1\Room1\obj\Debug\net6.0\Room1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natalia\Desktop\Room1\Room1\obj\Debug\net6.0\Room1.AssemblyInfoInputs.cache
+C:\Users\Natalia\Desktop\Room1\Room1\obj\Debug\net6.0\Room1.AssemblyInfo.cs
+C:\Users\Natalia\Desktop\Room1\Room1\obj\Debug\net6.0\Room1.csproj.CoreCompileInputs.cache
+C:\Users\Natalia\Desktop\Room1\Room1\obj\Debug\net6.0\Room1.dll
+C:\Users\Natalia\Desktop\Room1\Room1\obj\Debug\net6.0\refint\Room1.dll
+C:\Users\Natalia\Desktop\Room1\Room1\obj\Debug\net6.0\Room1.pdb
+C:\Users\Natalia\Desktop\Room1\Room1\obj\Debug\net6.0\Room1.genruntimeconfig.cache
+C:\Users\Natalia\Desktop\Room1\Room1\obj\Debug\net6.0\ref\Room1.dll
